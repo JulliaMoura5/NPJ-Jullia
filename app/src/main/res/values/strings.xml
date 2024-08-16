@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fasipe Cuiaba</string>
+    <string name="search_by_title">Pesquise por Nome/CPF</string>
+    <string name="search">Pesquisar</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="cpf">CPF</string>
+    <string name="tipo_de_ocorr_ncia">Selecione a ocorrência</string>
+    <string name="estagi_rio">Selecione o Estagiário</string>
+    <string name="Professosr">Selecione o Coordenador</string>
+    <string name="delete">Deletar</string>
+    <string name="update">Atualizar</string>
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light">
+        <!-- Primary color. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- Primary dark color. -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- Accent color. -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Background color. -->
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <!-- Surface color. -->
+        <item name="colorSurface">@color/colorSurface</item>
+        <!-- Background color. -->
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <!-- Text color on primary. -->
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <!-- Text color on accent. -->
+    </style>
+    <!-- res/values/styles.xml -->
+    <style name="MenuTextStyle">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+
+</resources>

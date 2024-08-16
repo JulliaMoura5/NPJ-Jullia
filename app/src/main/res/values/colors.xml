@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#137547</color> <!-- Verde escuro -->
+    <color name="colorPrimaryDark">#0d4e30</color> <!-- Verde mais escuro -->
+    <color name="colorAccent">#8bc34a</color> <!-- Verde limão claro -->
+    <color name="colorSurface">#ffffff</color> <!-- Branco puro para superfícies -->
+    <color name="colorBackground">#f6f6f6</color> <!-- Cor de fundo padrão -->
+    <color name="colorOnPrimary">#ffffff</color> <!-- Branco para texto/icons sobre primário -->
+    <color name="colorOnAccent">#000000</color> <!-- Preto para texto/icons sobre acento -->
+    <color name="colorRed">#D56F6F</color> <!-- Vermelho profundo -->
+</resources>
